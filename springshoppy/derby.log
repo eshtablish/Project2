@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 18 21:36:18 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-ebd8-7f84-0000023b1e00 
+on database directory memory:C:\Users\de\Documents\workspace-spring-tool-suite-4-4.15.3.RELEASE\springshoppy\907af028-e325-4e92-82fd-0e905c54d370 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/de/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.4+8
+user.dir=C:\Users\de\Documents\workspace-spring-tool-suite-4-4.15.3.RELEASE\springshoppy
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
